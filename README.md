@@ -31,7 +31,7 @@ Follow these steps to run the Rust Kafka Consumer Service and the Rust Kafka Pro
 1. **Clone the Repositories**: Clone the repositories to your local machine:
 
     ```bash
-    https://github.com/sheshnath-at-knoldus/Kafka-TechHub.git
+    https://github.com/NashTech-Labs/Integrating-kafka-in-Rust.git
     ```
 
 2. **Navigate to Project Directories**: Move into the project directories:
